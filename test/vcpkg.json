@@ -1,0 +1,31 @@
+{
+  "name": "vtk",
+  "version-string": "8.2.0",
+  "port-version": 2,
+  "description": "Software system for 3D computer graphics, image processing, and visualization",
+  "dependencies": [
+    {
+      "name": "atlmfc",
+      "platform": "windows"
+    },
+    "double-conversion",
+    "eigen3",
+    "expat",
+    "freetype",
+    "glew",
+    "hdf5",
+    "jsoncpp",
+    "libharu",
+    "libjpeg-turbo",
+    "libpng",
+    "libtheora",
+    "libxml2",
+    "lz4",
+    "netcdf-c",
+    "proj4",
+    "pugixml",
+    "sqlite3",
+    "tiff",
+    "zlib"
+  ]
+}
